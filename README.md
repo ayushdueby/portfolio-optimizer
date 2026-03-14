@@ -87,3 +87,4 @@ All monetary values are in **Indian Rupees (₹)**.
 - **Frontend:** `.env` with `VITE_API_BASE_URL` (default `http://localhost:8080`).
 
 Add your **Claude API key** and **MongoDB URI** before running end-to-end.
+# portfolio-optimizer
